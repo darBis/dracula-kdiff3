@@ -1,3 +1,6 @@
+# This is a FORK
+This repository exist only to add a simple install script (written in C# because of "reasons" ;-) ).
+
 # Dracula for [KDiff3](http://kdiff3.sourceforge.net/)
 
 > A dark theme for [KDiff3](http://kdiff3.sourceforge.net/).
@@ -6,7 +9,9 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/kdiff3](https://draculatheme.com/kdiff3).
+* Install Visual Studio 2017 or later - required for Roslyn C# interpreter `csi.exe`
+* Open command prompt in the root of this repository
+* Run `install.bat`
 
 ## Team
 
